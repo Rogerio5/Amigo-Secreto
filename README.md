@@ -1,5 +1,3 @@
-# Amigo-Secreto
-
 # 🎁 Projeto Amigo Secreto
 
 ![Imagem de capa](assets/amigo-secreto.png)
@@ -8,8 +6,8 @@
 
 ## 🏅 Badges
 
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/amigo-secreto)
-![GitHub license](https://img.shields.io/github/license/seu-usuario/amigo-secreto)
+![GitHub repo size](https://img.shields.io/github/repo-size/Rogerio5/amigo-secreto)
+![GitHub license](https://img.shields.io/github/license/Rogerio5/amigo-secreto)
 
 ---
 
@@ -60,17 +58,47 @@ Você pode ver como funciona no vídeo abaixo:
 
 ## 🌐 Acesso ao Projeto
 
-- [Repositório GitHub](https://github.com/seu-usuario/amigo-secreto)
-- [Deploy com GitHub Pages](https://seu-usuario.github.io/amigo-secreto/)
+- [Repositório GitHub](https://github.com/Rogerio5/amigo-secreto)
 
 ---
 
 ## 🧰 Tecnologias Utilizadas
 
-- HTML
-- CSS
-- JavaScript
-- Google Fonts
+<p>
+  <img 
+    align="left" 
+    alt="HTML" 
+    title="HTML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+  <img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+  <img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+  <img 
+    align="left" 
+    alt="Google Fonts" 
+    title="Google Fonts"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.vectorlogo.zone/logos/google_fonts/google_fonts-icon.svg" 
+  />
+</p>
+
 
 ---
 
@@ -78,14 +106,11 @@ Você pode ver como funciona no vídeo abaixo:
 
 Se teve ajuda de outros amigos:
 
-- @usuario1
-- @usuario2
 
----
 
 ## 👨‍💻 Pessoas Desenvolvedoras do Projeto
 
-- [Rogerio](https://github.com/seu-usuario)
+- [Rogerio](https://github.com/Rogerio5)
 
 ---
 
