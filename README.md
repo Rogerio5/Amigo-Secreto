@@ -6,8 +6,11 @@
 
 ## 🏅 Badges
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Rogerio5/amigo-secreto)
-![GitHub license](https://img.shields.io/github/license/Rogerio5/amigo-secreto)
+- 📦 Tamanho do repositório:  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Rogerio5/amigo-secreto)
+
+- 📄 Licença do projeto:  
+  ![GitHub license](https://img.shields.io/github/license/Rogerio5/amigo-secreto)
 
 ---
 
