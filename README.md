@@ -92,14 +92,7 @@ Você pode ver como funciona no vídeo abaixo:
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
-  <img 
-    align="left" 
-    alt="Google Fonts" 
-    title="Google Fonts"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.vectorlogo.zone/logos/google_fonts/google_fonts-icon.svg" 
-  />
+ 
 </p>
 
 
