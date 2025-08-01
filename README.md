@@ -19,10 +19,8 @@
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Status do Projeto](#status-do-projeto)
 - [Funcionalidades](#funcionalidades)
-- [Demonstração da Aplicação](#demonstração-da-aplicação)
 - [Acesso ao Projeto](#acesso-ao-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Contribuidores](#pessoas-contribuidoras)
 - [Desenvolvedor](#pessoas-desenvolvedoras-do-projeto)
 - [Licença](#licença)
 - [Conclusão](#conclusão)
@@ -48,14 +46,6 @@ Aplicação web simples e divertida para realizar sorteios de amigo secreto, com
 - Sortear pares de amigo secreto
 - Exibir resultado com nomes sorteados
 - Interface responsiva e estilizada
-
----
-
-## 🎬 Demonstração da Aplicação
-
-Você pode ver como funciona no vídeo abaixo:
-
-📹 _[Insira link de vídeo ou gif aqui]_
 
 ---
 
@@ -94,12 +84,6 @@ Você pode ver como funciona no vídeo abaixo:
   />
  </p>
 ---
-
-## 👥 Pessoas Contribuidoras
-
-Se teve ajuda de outros amigos:
-
-
 
 ## 👨‍💻 Pessoas Desenvolvedoras do Projeto
 
