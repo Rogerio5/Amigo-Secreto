@@ -1,3 +1,4 @@
+
 //O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
 
 let amigos = [];
@@ -8,6 +9,10 @@ function adicionarAmigo() {
     const nome = input.value.trim();
 
     if (nome !== "") {
+        if (amigos.includes(nome)) {
+            alert("Esse nome já foi adicionado.");
+            return;
+        }
         amigos.push(nome);
         input.value = "";
         atualizarLista();
@@ -29,11 +34,8 @@ function atualizarLista() {
 
     amigos.forEach(amigo => {
         const item = document.createElement("li");
-
-        // Nome do amigo
         item.textContent = amigo;
 
-        // Botão de remover
         const botaoRemover = document.createElement("button");
         botaoRemover.textContent = "Remover";
         botaoRemover.style.marginLeft = "10px";
@@ -44,36 +46,33 @@ function atualizarLista() {
     });
 }
 
-// Sorteia os pares de amigo secreto
+// Sorteia os pares de amigo secreto (versão segura!)
 function sortearAmigo() {
     if (amigos.length < 2) {
         alert("Adicione pelo menos dois amigos para fazer o sorteio.");
         return;
     }
 
+    let sorteados = [];
+    let valido = false;
+
+    while (!valido) {
+        sorteados = [...amigos];
+        embaralhar(sorteados);
+        valido = amigos.every((amigo, i) => amigo !== sorteados[i]);
+    }
+
     const resultado = document.getElementById("resultado");
     resultado.innerHTML = "";
 
-    const sorteados = [...amigos];
-    embaralhar(sorteados);
-
-    for (let i = 0; i < amigos.length; i++) {
-        let amigo = amigos[i];
-        let amigoSecreto = sorteados[i];
-
-        // Garante que ninguém seja seu próprio amigo secreto
-        if (amigo === amigoSecreto) {
-            sortearAmigo(); // Tenta novamente se algum par for inválido
-            return;
-        }
-
+    amigos.forEach((amigo, i) => {
         const item = document.createElement("li");
-        item.textContent = `${amigo} ➝ ${amigoSecreto}`;
+        item.textContent = `${amigo} ➝ ${sorteados[i]}`;
         resultado.appendChild(item);
-    }
+    });
 }
 
-// Função auxiliar para embaralhar o array
+// Embaralha o array de forma aleatória
 function embaralhar(array) {
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));

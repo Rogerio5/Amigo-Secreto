@@ -1,3 +1,4 @@
+
 // gerador-license.js
 const fs = require('fs');
 const year = new Date().getFullYear();
