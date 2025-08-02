@@ -96,14 +96,14 @@
   />
   <img 
     align="left" 
-    alt="GitHub" 
-    title="GitHub"
+    alt="GitHub Octocat" 
+    title="GitHub Official Logo"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" 
 />
-
  </p>
+ 
 ---
 
 ## 👨‍💻 Pessoa Desenvolvedor do Projeto / Project Developer
