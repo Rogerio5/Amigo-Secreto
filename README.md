@@ -104,7 +104,9 @@
 />
  </p>
 
- ------------------
+ <br clear="all"/>
+
+ ---
  ## 👨‍💻 Pessoa Desenvolvedor do Projeto / Project Developer
 
 - [Rogerio](https://github.com/Rogerio5)
