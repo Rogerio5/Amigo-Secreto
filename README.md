@@ -104,10 +104,7 @@
 />
  </p>
 
-
-
- 
- ---
+ ------------------
  ## 👨‍💻 Pessoa Desenvolvedor do Projeto / Project Developer
 
 - [Rogerio](https://github.com/Rogerio5)
