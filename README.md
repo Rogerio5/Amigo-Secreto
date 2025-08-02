@@ -96,12 +96,13 @@
   />
   <img 
     align="left" 
-    alt="GitHub Octocat" 
-    title="GitHub Official Logo"
+    alt="GitHub Alt" 
+    title="GitHub Alternative Logo"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" 
+    src="https://www.svgrepo.com/show/361183/github-alt.svg" 
 />
+
  </p>
  
 ---
