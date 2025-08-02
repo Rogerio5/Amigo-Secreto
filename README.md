@@ -103,7 +103,11 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg".
 />
  </p>
+
+
+
  
+ ---
  ## 👨‍💻 Pessoa Desenvolvedor do Projeto / Project Developer
 
 - [Rogerio](https://github.com/Rogerio5)
