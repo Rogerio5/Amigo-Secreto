@@ -30,6 +30,7 @@
 ## 📖 Descrição do Projeto / Project Description
 
 **PT:** Aplicação web simples e divertida para realizar sorteios de amigo secreto, com funcionalidades de adicionar e remover nomes. 
+
 **EN:** A fun and simple web application to organize Secret Santa drawings! Add names, remove participants, and randomly pair everyone with a surprise gift buddy.
 
 ---
@@ -97,6 +98,7 @@
 ## 📜 Licença / License
 
 Este projeto está sob licença MIT. Para mais detalhes, veja o arquivo `LICENSE`.
+
 This project is under the MIT license. For more details, see the `LICENSE` file.
 
 ---
@@ -104,5 +106,6 @@ This project is under the MIT license. For more details, see the `LICENSE` file.
 ## 🏁 Conclusão / Conclusion
 
 Projeto leve, funcional e ótimo para reunir amigos em confraternizações com estilo. Que venha o sorteio!
+
 Light, functional project that's great for gathering friends for stylish get-togethers. Let the raffle begin!
 
