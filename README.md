@@ -94,18 +94,18 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
   />
-  <img 
+ <img 
     align="left" 
-    alt="GitHub Alt" 
-    title="GitHub Alternative Logo"
+    alt="GitHub" 
+    title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/361183/github-alt.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
-
  </p>
  
 ---
+
 
 ## 👨‍💻 Pessoa Desenvolvedor do Projeto / Project Developer
 
