@@ -1,61 +1,66 @@
-# 🎁 Projeto Amigo Secreto
+# 🎁 Projeto Amigo Secreto / Secret Santa Project
 
-![Imagem de capa](assets/amigo-secreto.png)
+![Imagem de capa / Cover Image](assets/amigo-secreto.png)
 
 ---
 
 ## 🏅 Badges
 
-- 📦 Tamanho do repositório:  
+- 📦 Tamanho do repositório / Repository Size:  
   ![GitHub repo size](https://img.shields.io/github/repo-size/Rogerio5/amigo-secreto)
 
-- 📄 Licença do projeto:  
+- 📄 Licença do projeto / Project License:  
   ![GitHub license](https://img.shields.io/github/license/Rogerio5/amigo-secreto)
 
 ---
 
-## 📋 Índice
+## 📋 Índice / Table of Contents
 
-- [Descrição do Projeto](#descrição-do-projeto)
-- [Status do Projeto](#status-do-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Acesso ao Projeto](#acesso-ao-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Desenvolvedor](#pessoas-desenvolvedoras-do-projeto)
-- [Licença](#licença)
-- [Conclusão](#conclusão)
-
----
-
-## 📖 Descrição do Projeto
-
-Aplicação web simples e divertida para realizar sorteios de amigo secreto, com funcionalidades de adicionar e remover nomes.
+- [Descrição / Description](#descrição--description)
+- [Status / Status](#status--status)
+- [Funcionalidades / Features](#funcionalidades--features)
+- [Acesso / Access](#acesso--access)
+- [Tecnologias / Technologies](#tecnologias--technologies)
+- [Desenvolvedor / Developer](#desenvolvedor--developer)
+- [Licença / License](#licença--license)
+- [Conclusão / Conclusion](#conclusão--conclusion)
 
 ---
 
-## 🚧 Status do Projeto
+## 📖 Descrição do Projeto / Project Description
 
-✅ Finalizado
+**PT:** Aplicação web simples e divertida para realizar sorteios de amigo secreto, com funcionalidades de adicionar e remover nomes. 
+**EN:** A fun and simple web application to organize Secret Santa drawings! Add names, remove participants, and randomly pair everyone with a surprise gift buddy.
+
+---
+
+## 🚧 Status do Projeto / Project Status
+
+✅ Finalizado e pronto para usar! / Finished and ready to use!
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- Adicionar nomes à lista
-- Remover nomes da lista
-- Sortear pares de amigo secreto
-- Exibir resultado com nomes sorteados
-- Interface responsiva e estilizada
+## ⚙️ Funcionalidades / Features
+
+| 🧩 Funcionalidade (PT)       | 💡 Description (EN)                    |
+|-----------------------------|----------------------------------------|
+| ➕ Adicionar participantes   | ➕ Insert names into the list           |
+| ➖ Remover participantes     | ➖ Delete names from the list           |
+| 🔀 Sortear pares             | 🔀 Randomly draw Secret Santa pairs     |
+| 👀 Exibir resultado          | 👀 Show results in a clean layout       |
+| 📱 Design responsivo         | 📱 Works on desktops and mobile screens |
 
 ---
 
-## 🌐 Acesso ao Projeto
+## 🌐 Acesso ao Projeto / Access to the Project
 
-- [Repositório GitHub](https://github.com/Rogerio5/amigo-secreto)
+- [Repositório GitHub / GitHub Repository](https://github.com/Rogerio5/amigo-secreto)
 
 ---
 
-## 🧰 Tecnologias Utilizadas
+## 🧰 Tecnologias Utilizadas / Technologies Used
 
 <p>
   <img 
@@ -85,19 +90,21 @@ Aplicação web simples e divertida para realizar sorteios de amigo secreto, com
  </p>
 ---
 
-## 👨‍💻 Pessoas Desenvolvedoras do Projeto
+## 👨‍💻 Pessoa Desenvolvedor do Projeto / Project Developer
 
 - [Rogerio](https://github.com/Rogerio5)
 
 ---
 
-## 📜 Licença
+## 📜 Licença / License
 
 Este projeto está sob licença MIT. Para mais detalhes, veja o arquivo `LICENSE`.
+This project is under the MIT license. For more details, see the `LICENSE` file.
 
 ---
 
-## 🏁 Conclusão
+## 🏁 Conclusão / Conclusion
 
 Projeto leve, funcional e ótimo para reunir amigos em confraternizações com estilo. Que venha o sorteio!
+Light, functional project that's great for gathering friends for stylish get-togethers. Let the raffle begin!
 
