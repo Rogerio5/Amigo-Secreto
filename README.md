@@ -40,8 +40,6 @@
 
 ---
 
-## ⚙️ Funcionalidades
-
 ## ⚙️ Funcionalidades / Features
 
 | 🧩 Funcionalidade (PT)       | 💡 Description (EN)                    |
