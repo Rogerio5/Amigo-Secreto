@@ -1,4 +1,4 @@
-# 🎁 Projeto Amigo Secreto / Secret Santa Project
+# 🎁 Projeto Amigo Secreto / Secret Friend Project
 
 ![Imagem de capa / Cover Image](assets/amigo-secreto.png)
 
